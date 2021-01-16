@@ -70,7 +70,7 @@ $ docker run \
   --label co.elastic.metrics/hosts='${data.host}:${data.port}' \
   --detach=true \
   --name my-nginx \
-  -p 80:80 \
+  -p 8080:80 \
   nginx:latest
 ```
 
