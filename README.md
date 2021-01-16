@@ -99,5 +99,3 @@ $ docker run \
 
 
 #### ■kibanaを確認
-
-![image-20210112233601016](C:\Users\ysy\AppData\Roaming\Typora\typora-user-images\image-20210112233601016.png)
